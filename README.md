@@ -15,4 +15,4 @@ To build and run this project:
 
 ## FLUTTER UI APP SHRITS
 
-| [**FLUTTER UI APP SHRITS**](<img src="https://media.giphy.com/media/Pkrk0TMwov8MPX56wT/giphy.gif" width="222" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></img><p><a href="https://giphy.com/gifs/Pkrk0TMwov8MPX56wT">via GIPHY</a></p>)
+<center><img src="https://media.giphy.com/media/Pkrk0TMwov8MPX56wT/giphy.gif" width="222" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></img><center>
